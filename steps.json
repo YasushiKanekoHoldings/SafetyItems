@@ -1,0 +1,8 @@
+{"prompt" : "準備工事", "completion" : "土工事" }
+{"prompt" : "土工事", "completion" : "基礎工事" }
+{"prompt" : "基礎工事", "completion" : "鉄筋工事" }
+{"prompt" : "鉄筋工事", "completion" : "躯体工事" }
+{"prompt" : "躯体工事", "completion" : "外装工事" }
+{"prompt" : "外装工事", "completion" : "設備工事" }
+{"prompt" : "設備工事", "completion" : "内装工事" }
+{"prompt" : "内装工事", "completion" : "仕上工事" }
